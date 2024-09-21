@@ -1,10 +1,15 @@
+##Introduction to repository  
 Hello! As a fellow Gravity falls enthusiest, I started thinking. What if gravity falls put any hidden messages in their website? 
 
 Well I saved the HTML/CSS/JS to my computer to analyze the files and they were all formated through "minification" (bare with me im learning). 
-So I took the time to un-do this process to make it readable. Not everything may be correct if there are any mistakes let me know, this is my first github respitory I have ever posted so I am very new to this as well.
+So I took the time to un-do this process to make it readable. Not everything may be correct if there are any mistakes let me know, this is my first github repository I have ever posted so I am very new to this as well.
 
-PLEASE READ:
-# Readable Code from thisisnotawebsitedotcom.com
+
+
+
+
+#PLEASE READ:
+## Readable Code from thisisnotawebsitedotcom.com
 
 This repository contains beautified, unminified JavaScript code from the website [thisisnotawebsitedotcom.com](https://thisisnotawebsitedotcom.com). The code was originally minified and has been reformatted for readability and educational purposes only.
 
