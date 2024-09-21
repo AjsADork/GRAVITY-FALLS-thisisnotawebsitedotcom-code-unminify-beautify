@@ -29,6 +29,7 @@ Please note that the code provided in this repository has been unminified using 
 ## Legal Notice
 
 The code provided here is subject to any legal rights, copyright, or licenses that may apply to the original website and code. If the owners of the website or any related parties wish for this repository to be taken down, please contact me, and I will remove it promptly.
+Contacts: ajdork47@gmail.com
 
 ## License
 
