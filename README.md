@@ -6,10 +6,7 @@ So I took the time to un-do this process to make it readable. Not everything may
 
 In this repository, I have included the CSS and JavaScript code from the website thisisnotawebsitedotcom.com, which I unminified and reformatted using BeautifyTools for better readability. However, I chose not to include the HTML as it was already correctly formatted on the website and did not require any beautification or modification. If anyone wishes to view the HTML, they can easily access it directly from the website itself. I want to emphasize that I am not claiming ownership of any of this code, as it belongs to the original website's owners. This repository is purely for educational purposes to allow others to read and analyze the code. If there are any legal concerns, including copyright or other rights associated with the code, please notify me, and I will take down the repository if requested. This repository does not modify the code's functionality but is provided as-is in its beautified form. Please refer to the website for any official use or licensing terms.
 
-
-
-
-
+Let me know if you find anything cool! My **only** intent to uploading this is to uncover cool gravity falls lore, and possible hidden messages. Thats all!
 
 # PLEASE READ:
 ## Readable Code from thisisnotawebsitedotcom.com
